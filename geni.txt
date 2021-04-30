@@ -1,0 +1,11 @@
+ORF1ab, 266, 21555, count = 16
+S, 21563, 25384, count = 4
+ORF3a, 25393, 26220, count = 2
+E, 26245, 26472, count = 0
+M, 26523, 27191, count = 2
+ORF6, 27202, 27387, count = 0
+ORF7a, 27394, 27759, count = 0
+ORF7b, 27756, 27887, count = 0
+ORF8, 27894, 28259, count = 0
+N, 28274, 29533, count = 2
+ORF10, 29558, 29674, count = 0
